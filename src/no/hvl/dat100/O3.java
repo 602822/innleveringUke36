@@ -16,7 +16,7 @@ public class O3 {
 			
 			showMessageDialog(null,"Fakultet av " + n + " = " + fakultet);
 		
-		
+		//123
 
 		}
 
